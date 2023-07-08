@@ -7,6 +7,10 @@
   color: #333;
 }
 
+html {
+  scroll-snap-type: y mandatory;
+}
+
 body {
   font-family: "Rubik", sans-serif;
   width: 100%;
